@@ -1,0 +1,10 @@
+bin/
+obj/
+.paket/
+paket-files/
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
